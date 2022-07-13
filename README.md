@@ -1,6 +1,11 @@
 # pandas-challenge
 Module 4 Challenge
 
+#  pandas-challenge contents
+PyCitySchools folder that contains:
+        ** Resources - These folders contains the "schools_complete.csv" and "students_complete.csv" files
+        ** PyCitySchools.ipynb (Jupyter notebook to be graded)
+
 # Aim of project 
    This project is a demonstration of my Pandas skillset thus far in the Data Analytics certification program.
    The following are the objectives of this assignment:
@@ -76,10 +81,6 @@ Scores by School Size Calculations:
 
 Scores by School Type Calculations:
         ** Create a table that breaks down school performance based on type of school (district or charter).
-
-#  pandas-challenge contents
-PyCitySchools folder that contains:
-        ** Resources - These folders contains the "schools_complete.csv" and "students_complete.csv" files
 
 # Analysis of PyCitySchools data
 Conclusion #1: 
