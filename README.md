@@ -64,12 +64,15 @@ Lowest-Performing Schools (by % Overall Passing) Calculations:
         ** % overall passing (the percentage of students who passed math AND reading)
 
 Math Scores by Grade Calculations:
+
         ** Create a DataFrame that lists the average math score for students of each grade level (9th, 10th, 11th, 12th) at each school
 
 Reading Scores by Grade Calculations:
+
         ** Create a DataFrame that lists the average reading score for students of each grade level (9th, 10th, 11th, 12th) at each school
 
 Scores by School Spending Calculations:
+
         ** Average math score
         ** Average reading score
         ** % passing math (the percentage of students who passed math)
@@ -77,9 +80,11 @@ Scores by School Spending Calculations:
         ** % overall passing (the percentage of students who passed math AND reading)
 
 Scores by School Size Calculations:
+
         ** Create a table that breaks down school performance based on school size (small, medium, or large)
 
 Scores by School Type Calculations:
+
         ** Create a table that breaks down school performance based on type of school (district or charter).
 
 # Analysis of PyCitySchools data
